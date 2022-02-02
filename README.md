@@ -47,6 +47,11 @@ To run the app, make sure you have Node installed in your machine.
 npm install
 npm start
 ```
+Or if you have docker, you can try
+```
+docker compose build
+docker compose up
+```
 App will be available at [http://localhost:3000](http://localhost:3000)
 
 ## Updates
@@ -54,4 +59,5 @@ App will be available at [http://localhost:3000](http://localhost:3000)
 - Configured babel (Transpiler)
 - Configured React
 - Designed UI using React functional components
+- Configured docker
 
