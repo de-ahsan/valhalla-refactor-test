@@ -1,3 +1,8 @@
+# Working Demo
+
+![App Demo 1](https://media.giphy.com/media/BzzQKcj6UwCI1JL5QO/giphy.gif)
+![App Demo 1](https://media.giphy.com/media/uUiyPO6ai7meb5VMo0/giphy.gif)
+
 # Technical Test
 The code in this project is operational, but it was completed with very poor standard.
 The client is also upset because the app is not fast enough to respond to user actions.
@@ -42,3 +47,11 @@ To run the app, make sure you have Node installed in your machine.
 npm install
 npm start
 ```
+App will be available at [http://localhost:3000](http://localhost:3000)
+
+## Updates
+- Configured webpacker
+- Configured babel (Transpiler)
+- Configured React
+- Designed UI using React functional components
+
